@@ -7,4 +7,4 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 st.header("Adisak")
-st.image("./images/adisak.jpg")
+st.image("./img/adisak.jpg")
